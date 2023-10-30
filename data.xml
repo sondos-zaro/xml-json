@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+  <person id="1">
+    <name>Sondos</name>
+    <address>
+      <road>beee al sabaa</road>
+      <city>Hebron</city>
+    </address>
+  </person>
+  <person id="2">
+    <name>Lama</name>
+    <address>
+      <road>Bassa street</road>
+      <city>Hebron</city>
+    </address>
+  </person>
+</people>
