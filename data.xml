@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<people>
-  <person id="1">
+<person>
+  <Student id="1">
     <name>Sondos</name>
-    <address>
-      <road>beee al sabaa</road>
-      <city>Hebron</city>
-    </address>
-  </person>
-  <person id="2">
+    <age>22</age>
+  </Student>
+  <Student id="2">
     <name>Lama</name>
-    <address>
-      <road>Bassa street</road>
-      <city>Hebron</city>
-    </address>
-  </person>
-</people>
+    <age>23</age>
+  </Student>
+  <Staff id="1">
+    <name>Ali</name>
+    <age>32</age>
+  </Staff>
+  <Staff id="2">
+    <name>Ahmad</name>
+    <age>32</age>
+  </Staff>
+</person>

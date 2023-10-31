@@ -1,12 +1,11 @@
-[
-    {
-        "id": "1",
-        "name": "Sondos Zaro",
-        "age": 22
-    },
-    {
-        "id": "2",
-        "name": "Lama SH",
-        "age": 24
-    }
-]
+{
+    "Staff" :[
+        {"id": 1, "name":"Sondos", "age":22 },
+        {"id": 2, "name":"Sara", "age":23}
+    ],
+    "Student" : [
+        {"id": 1, "name":"Ali", "age":33 },
+        {"id": 2, "name":"Ahmad", "age":32}  
+    ],
+    "Admin":{"name": "Mohammad"}
+}
